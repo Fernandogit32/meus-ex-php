@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+   margin: 0px;
+}
+
+form{
+    
+    border: 1px solid black;  
+    width: 20%;
+    height: 25%;       
+    position: absolute;
+	left: 40%;
+    top: 40%;
+    padding: 2%;
+    
+	
+   
+    
+}
+
+#login h1{
+    color:red;
+}
